@@ -59,7 +59,11 @@
         "org.slf4j:slf4j-api": {
             "locked": "1.6.3",
             "requested": "1.6.3"
-        }
+        },
+        "com.fasterxml.jackson.core:jackson-databind": {
+            "locked": "2.6.7.5",
+            "requested": "2.6.7.5"
+        },
     },
     "testCompile": {
         "org.junit.jupiter:junit-jupiter-api": {
